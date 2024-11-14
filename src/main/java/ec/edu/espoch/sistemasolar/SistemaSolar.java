@@ -27,7 +27,9 @@ public class SistemaSolar {
         
         objPlaneta.printValues();
         
-       
+       double densidad=objPlaneta.calculateDms();
+        System.out.println("La densidad es: "+densidad);
+           
         
         
         

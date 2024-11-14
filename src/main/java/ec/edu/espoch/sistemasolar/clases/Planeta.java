@@ -30,16 +30,12 @@ public class Planeta {
         System.out.println("Diametro"+diameterKm);
         System.out.println("Distancia"+distanceMediaSun);
         
-    
-    
-    
-    
-    
-    
-    
     }
     
-    
+    public double calculateDms (){
+    return massKilograms/volumeKm3;
+   
+    }
     
     
     
