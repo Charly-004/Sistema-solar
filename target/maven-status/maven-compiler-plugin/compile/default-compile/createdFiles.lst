@@ -1,3 +1,4 @@
 ec\edu\espoch\sistemasolar\clases\Planeta.class
 ec\edu\espoch\sistemasolar\SistemaSolar.class
 ec\edu\espoch\sistemasolar\enumeraciones\PlanetType.class
+ec\edu\espoch\sistemasolar\clases\planetType.class
